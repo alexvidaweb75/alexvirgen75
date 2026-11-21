@@ -1,0 +1,6 @@
+{
+  "name": "Sonora Studio",
+  "description": "Plataforma creativa para generar letras y canciones personalizadas con múltiples ritmos, voces, coros y géneros musicales, reproductor de audio integrado y creador de videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
